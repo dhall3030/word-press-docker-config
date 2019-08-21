@@ -4,7 +4,7 @@ docker compose configuration for WordPress projects
 
 ## Setup
 
-install Docker and Docker Compose
+Install Docker and Docker Compose
 
 ## Run Project
 ```
